@@ -1,3 +1,5 @@
+![header](header.png)
+
 # MergeIt!
 
 This Python script merges multiple PDF files in a specified folder into a single PDF file.
